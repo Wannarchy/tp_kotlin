@@ -1,0 +1,10 @@
+## Captures d'écran
+
+### Accueil
+![Accueil](images/accueil.png)
+
+### Liste des produits
+![Liste des produits](images/liste_produits.png)
+
+### Détail d'un produit
+![Détail](images/detail_produit.png)
