@@ -1,10 +1,10 @@
 ## Captures d'écran
 
 ### Accueil
-![Accueil](images/accueil.png)
+<img src="images/accueil.png" alt="Accueil" width="150">
 
 ### Liste des produits
-![Liste des produits](images/liste_produits.png)
+<img src="images/liste_produits.png" alt="Liste des produits" width="150">
 
 ### Détail d'un produit
-![Détail](images/detail_produit.png)
+<img src="images/detail_produit.png" alt="Détail" width="150">
